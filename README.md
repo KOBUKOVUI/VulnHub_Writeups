@@ -5,7 +5,7 @@ A collection of VulnHub machine write-ups by Clay, covering reconnaissance, expl
 ## 📚 Index
 
 | Lab Name       | Link                             |
-|-------------  -|------------|---------------------|
+|----------------|----------------------------------|
 | Chronos        | [View](./VulnHub_Chronos)        |
 | Death_note     | [View](./VulnHub_Deathnote)      |
 | metasploitabel2| [View](./VulnHub_metasploitable2)|
